@@ -3,33 +3,33 @@ Basic filesystem commands
 
 Three basic commands:
 --
-1. 'ls'
-2. 'cd'
-3. 'cat'
+1. `ls`
+2. `cd`
+3. `cat`
 
-'ls'
+`ls`
 --
 1. with no arguments
-   'ls'
+   `ls`
 2. with a path to a directory as an argument
-   'ls messages'
+   `ls messages`
 3. with a path to a file as an argument
-    'ls Hello.java'
+    `ls Hello.java`
 
-'cd'
+`cd`
 --
 1. with no arguments
-   'cd'
+   `cd`
 2. with a path to a directory as an argument
-   'cd messages'
+   `cd messages`
 3. with a path to a file as an argument
-   'cd Hello.java'
+   `cd Hello.java`
 
-'cat'
+`cat`
 --
 1. with no arguments
-   'cat'
+   `cat`
 2. with a path to a directory as an argument
-   'cat messages'
+   `cat messages`
 3. with a path to a file as an argument
-   'cat Hello.java'
+   `cat Hello.java`
