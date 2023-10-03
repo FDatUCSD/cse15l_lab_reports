@@ -12,7 +12,7 @@ Three basic commands:
 1. with no arguments  
    `ls`
    ![ls]
-   (screenshots/ls)
+   (screenshots/ls.png)
 3. with a path to a directory as an argument  
    `ls messages`
 4. with a path to a file as an argument  
