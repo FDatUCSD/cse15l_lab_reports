@@ -28,7 +28,7 @@ You should see the contents of the file in the terminal.
 Next, we can save the file using `:wq! ListExamples.java`. You can also save
 without providing the file name using `:wq!`.<br>
 ![step12](Screenshots/step12.png)<br>
-10. We can rerun the test to see if we fixed the bugs by typing "`bash test.sh`"
+10. We can rerun the test to see if we fixed the bugs by typing "`bash test.sh`"<br>
 ![step13](Screenshots/step13.png)<br>
 11. Then we can commit changes to github. First, we need to add our file by
 using the command "`git add ListExamples.java`". Then commit our changes using
